@@ -1,0 +1,101 @@
+{
+  "status": "published",
+  "tasks": [
+    {
+      "task_id": 18882,
+      "task_title": "Explore the world of management",
+      "task_description": "As a project manager, you play an important role in leading a project through initiation, planning, execution, monitoring, controlling and completion. How? Do you want to manage each and every step of your life?",
+      "status": "notworkyet",
+      "assets": [
+        {
+          "asset_id": 18883,
+          "asset_title": "Technical Project Management",
+          "asset_description": "Story of Alignment Scope of Agility Specific Accountable Staggering Approach",
+          "asset_content": "https://www.youtube.com/embed/TiMRwri1xJ8",
+          "asset_type": "display_asset",
+          "asset_content_type": "video"
+        },
+        {
+          "asset_id": 18884,
+          "asset_title": "Threadbuild",
+          "asset_description": "Watch the video and thread build, and jot out key threads while watching that video.",
+          "asset_content": "Create threads and organize your thoughts while learning. This interactive tool helps you structure your understanding of complex topics by breaking them down into manageable components.",
+          "asset_type": "interactive_asset",
+          "asset_content_type": "text"
+        },
+        {
+          "asset_id": 18885,
+          "asset_title": "Structure You Pointers",
+          "asset_description": "Write a 400-500 word article, from your thread. Publish your understanding, and showcase your learning to the entire world.",
+          "asset_content": "https://example.com/article-template.pdf",
+          "asset_type": "display_asset",
+          "asset_content_type": "document"
+        },
+        {
+          "asset_id": 18886,
+          "asset_title": "4SA Method",
+          "asset_description": "To explore more read more",
+          "asset_content": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
+          "asset_type": "display_asset",
+          "asset_content_type": "image"
+        }
+      ]
+    },
+    {
+      "task_id": 18887,
+      "task_title": "Advanced Project Management",
+      "task_description": "Dive deeper into advanced project management techniques and methodologies. Learn about modern approaches to managing complex projects in today's dynamic business environment.",
+      "status": "in_progress",
+      "assets": [
+        {
+          "asset_id": 18888,
+          "asset_title": "Agile Methodology",
+          "asset_description": "Learn about Agile project management approaches and how to implement them effectively.",
+          "asset_content": "https://www.youtube.com/embed/9TycLR0TqFA",
+          "asset_type": "display_asset",
+          "asset_content_type": "video"
+        },
+        {
+          "asset_id": 18889,
+          "asset_title": "Risk Management",
+          "asset_description": "Understanding and managing project risks effectively to ensure project success.",
+          "asset_content": "Risk management is a critical aspect of project management that involves identifying, analyzing, and responding to project risks. Effective risk management helps project managers anticipate potential issues and develop strategies to mitigate or avoid them.",
+          "asset_type": "display_asset",
+          "asset_content_type": "text"
+        },
+        {
+          "asset_id": 18890,
+          "asset_title": "Stakeholder Management",
+          "asset_description": "Learn how to effectively manage and communicate with project stakeholders.",
+          "asset_content": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=500&h=300&fit=crop",
+          "asset_type": "display_asset",
+          "asset_content_type": "image"
+        }
+      ]
+    },
+    {
+      "task_id": 18891,
+      "task_title": "Leadership in Project Management",
+      "task_description": "Develop essential leadership skills for project managers. Learn how to inspire teams, make decisions, and drive project success through effective leadership.",
+      "status": "notworkyet",
+      "assets": [
+        {
+          "asset_id": 18892,
+          "asset_title": "Team Leadership",
+          "asset_description": "Essential skills for leading project teams effectively.",
+          "asset_content": "https://www.youtube.com/embed/2nXGPZaTKik",
+          "asset_type": "display_asset",
+          "asset_content_type": "video"
+        },
+        {
+          "asset_id": 18893,
+          "asset_title": "Decision Making",
+          "asset_description": "Learn systematic approaches to making effective project decisions.",
+          "asset_content": "https://example.com/decision-making-guide.pdf",
+          "asset_type": "display_asset",
+          "asset_content_type": "document"
+        }
+      ]
+    }
+  ]
+}
